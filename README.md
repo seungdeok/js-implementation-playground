@@ -3,6 +3,8 @@
 JavaScript만으로 구현하는 playground입니다
 
 ## 구현 목록
+- [chunk](./chunk.js)
+- [deepclone](deepclone.js)
 
 ## 테스트 방법
 
